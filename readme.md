@@ -29,6 +29,8 @@ The application is hosted on Netlify. You can access it using the link below:
 
 [**PiggyTrack Live Demo**](https://jolly-tulumba-094619.netlify.app/)
 
+##Demo Url: https://jolly-tulumba-094619.netlify.app/
+
 ## Folder Structure
 
 ```
@@ -80,11 +82,4 @@ The project is hosted on Netlify for easy access and sharing. Netlify provides a
 3. **Detailed Reports**: Provide more comprehensive analysis options, such as monthly or yearly breakdowns.
 4. **Export Data**: Add functionality to download expenses as a CSV file.
 
-## Developer Notes
 
-- Ensure you have a stable internet connection to load external libraries (Chart.js and Lity.js).
-- The project is designed to be a beginner-friendly introduction to web development.
-
----
-
-**PiggyTrack** is a practical project for students and developers to learn and showcase their frontend development skills.
